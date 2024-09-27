@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nitin_verma
 - 👀 I’m interested in development
-- 🌱 I’m currently learning mern stack
+- 🌱 I’m currently learning devops
 - 💞️ I’m looking to collaborate on web3
 - 📫 How to reach me nitinvermanv61506@gmail.com
 
